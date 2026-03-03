@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/apps/">
+    <Project Path="BookingEngine.Booking.Api/BookingEngine.Booking.Api.csproj" Id="8e54a156-6c3d-413a-9260-49fc823f4f92" />
+    <Project Path="BookingEngine.Gateway/BookingEngine.Gateway.csproj" />
+  </Folder>
+  <Folder Name="/modules/" />
+  <Folder Name="/modules/Booking/">
+    <Project Path="BookingEngine.Modules.Booking.Api/BookingEngine.Modules.Booking.Api.csproj" Id="2f44d4cf-50fa-4989-8c17-c97bf9285180" />
+    <Project Path="BookingEngine.Modules.Booking.Application/BookingEngine.Modules.Booking.Application.csproj" Id="42c84236-9ce9-4a66-bb8a-a092a0186f7f" />
+    <Project Path="BookingEngine.Modules.Booking.Domain/BookingEngine.Modules.Booking.Domain.csproj" Id="7f2f2e90-4701-48f4-88f0-ec8afc913e90" />
+    <Project Path="BookingEngine.Modules.Booking.Infrastructure/BookingEngine.Modules.Booking.Infrastructure.csproj" Id="585417bb-9906-4663-9d96-f51d9a0b551a" />
+  </Folder>
+  <Folder Name="/modules/Notification/" />
+  <Folder Name="/shared/">
+    <Project Path="BookingEngine.Contracts/BookingEngine.Contracts.csproj" Id="f00c846a-6b49-4b6a-8e95-7cf311db4a2f" />
+    <Project Path="BookingEngine.Shared/BookingEngine.Shared.csproj" Id="6535ad73-dfe3-4fa6-9616-2b391dfef4ec" />
+  </Folder>
+</Solution>

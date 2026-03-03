@@ -1,0 +1,6 @@
+@BookingEngine.Booking.Api_HostAddress = http://localhost:5113
+
+GET {{BookingEngine.Booking.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
